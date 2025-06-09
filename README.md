@@ -5,7 +5,7 @@
   
   [![License](https://img.shields.io/badge/License-TI%20TSPA-blue.svg)](LICENSE)
   [![C2000](https://img.shields.io/badge/C2000-F2837xD-orange.svg)](https://www.ti.com/c2000)
-  [![C2000Ware](https://img.shields.io/badge/C2000Ware-V5.00.00.00-green.svg)](https://www.ti.com/tool/C2000WARE)
+  [![C2000Ware](https://img.shields.io/badge/C2000Ware-V5.04.00.00-green.svg)](https://www.ti.com/tool/C2000WARE)
   [![MCP](https://img.shields.io/badge/MCP-Ready-purple.svg)](https://modelcontextprotocol.io/)
 </div>
 
