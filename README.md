@@ -1,7 +1,7 @@
 # TMS320F28377D C2000Ware 开发库
 
 <div align="center">
-  <img src="https://www.ti.com/content/dam/ticom/images/company/brand/ti-cube-red.svg" alt="Texas Instruments Logo" width="200"/>
+  <img src="https://www.ti.com/etc/designs/ti/images/ui/ic-logo.svg" alt="Texas Instruments Logo" width="200"/>
   
   [![License](https://img.shields.io/badge/License-TI%20TSPA-blue.svg)](LICENSE)
   [![C2000](https://img.shields.io/badge/C2000-F2837xD-orange.svg)](https://www.ti.com/c2000)
